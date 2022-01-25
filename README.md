@@ -1,6 +1,3 @@
-# driftSFDCstreaming
-Node app that listens for specific events in SFDC, queries Drift, and if applicable manipulate/change data in Drift to mirror SFDC
-
 # Drift Salesforce (SFDC) Streaming API App
 
 Server side application written in Node that listens for specific events in SFDC, queries Drift, and if applicable manipulate/change data in Drift to mirror SFDC. 
@@ -8,8 +5,6 @@ Server side application written in Node that listens for specific events in SFDC
 ### Prerequisites
 
 This project leverages core libraries/dependencies that are listed below:
-
-
 
 * dotenv (https://www.npmjs.com/package/dotenv)
 * express (https://www.npmjs.com/package/express)
